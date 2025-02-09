@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(128, 49, 99);      
+  display: flex;
+  justify-content: center;
+}
+.container {
+  display: block;
+  width: 500px;
+  margin-top: 120px;
+}
+.title {
+  text-align: center;
+  color: white;
+  font-size: 80px;  
+  
+}
+.new-task {
+  display: block;
+  width: 100%;
+  background-color: azure;
+  border-radius: 10px;
+  height: 40px;
+  border-color: aquamarine;
+  border-width: 4px;
+  text-align: center;
+  font-size: 24px;
+  color: black;
+}
+.boton{
+  background-color: azure;
+  color: rgb(128, 49, 99);  
+}
